@@ -1,16 +1,21 @@
-## Hi there 👋
+## Good day! Guten tag! 
 
-<!--
-**Tk-Hambira/Tk-Hambira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Aspiring Software Engineer | Tech Entrepreneur | Data Analyst  
+ Interested in Web, Mobile & Systems Engineering 
 
-Here are some ideas to get you started:
+## My Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages > Java, python, JavaScript, PHP and Ballerina
+- Tools > Github, VsCode
+- Learning: Wordpress
+
+##  Projects
+- UbuntuHub
+- Nia-Chatbot
+- NustRegits-forms
+- Financial Tracker
+- API developments
+
+## Coming soon:
+- A Web Application!
+
