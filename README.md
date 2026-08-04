@@ -71,10 +71,10 @@ const tk = {
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tk-Hambira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="top languages" />
 </div>
 
-### 🔝 Top Contributed Repos
+### 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Tk-Hambira&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contributed repos" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tk-Hambira&theme=github-compact&bg_color=0d1117&color=3ECF8E&line=3ECF8E&point=ffffff&area=true&hide_border=true" alt="contribution activity graph" />
 </div>
 
 ---
