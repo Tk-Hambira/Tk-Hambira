@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi 👋, I'm Tk Hambira</h1>
 
 <p align="center">
@@ -84,3 +85,4 @@ const tk = {
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote" />
 </div>
+-->
